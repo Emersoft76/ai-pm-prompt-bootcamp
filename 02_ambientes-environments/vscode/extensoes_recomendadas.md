@@ -1,4 +1,3 @@
-```md
 # 🧩 Extensões Recomendadas para VS Code | Recommended VS Code Extensions
 
 ---
